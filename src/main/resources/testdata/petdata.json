@@ -1,0 +1,20 @@
+[
+  {
+    "testId": "TI001",
+    "id": 225855296,
+    "category": {
+      "id": 7785895,
+      "name": "dog"
+    },
+    "name": "doggie",
+    "photoUrls": [
+    ],
+    "tags": [
+      {
+        "id": 14858,
+        "name": "black"
+      }
+    ],
+    "status": "available"
+  }
+]
